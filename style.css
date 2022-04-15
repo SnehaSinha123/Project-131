@@ -1,0 +1,35 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+#sun{
+    font-size: 20px;
+    background-color: antiquewhite;
+    padding: 4px;
+}
+
+#moon{
+    font-size: 20px;
+    background-color: antiquewhite;
+    padding: 4px;
+}
+
+#star{
+    font-size: 20px;
+    background-color: antiquewhite;
+    padding: 4px;
+}
+
+#cat{
+    font-size: 20px;
+    background-color: antiquewhite;
+    padding: 4px;
+}
+
+#bird{
+    font-size: 20px;
+    background-color: antiquewhite;
+    padding: 4px;
+}
+
